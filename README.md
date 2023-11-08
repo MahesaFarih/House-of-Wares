@@ -1,6 +1,8 @@
-# house_of_wares
+# Tugas 7 PBP
 
-A new Flutter project.
+1. Perbedaan antara stateless widget dengan statefull widge. Stateless widget adalah sebuah widget dalam Flutter dimana widget tersebut tidak akan berubah, contoh dari stateless widget adalah icon, text, snackbar, dan warna yang digunakan dalam penugasan PBP No.7 ini. Berikutnya adalah stateful widget adalah widget dari Flutter yang bersifat dinamik atau dapat mengalami perubahan ketika ada input dari pengguna, cotohnya adalah inkwell dalam penugasan ini dan floatting button untuk merubah nilai $count dalam template dasar saat penggunaan flutter create <app>.
+
+2.
 
 ## Getting Started
 
